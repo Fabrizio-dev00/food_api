@@ -1,4 +1,4 @@
-# 🍔 foodorder_api
+# 🍔 food_api
 
 API REST para la gestión de un restaurante, creada con **Django + Django REST Framework (DRF)**.  
 Permite administrar **Platos** y **Pedidos** mediante endpoints, sin usar Django Admin.
